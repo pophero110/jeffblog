@@ -1,6 +1,5 @@
 import { promises as fs } from "fs";
 import path from "path";
-import Link from "next/link";
 import StyledMarkdown from "@/components/StyledMarkdown";
 
 async function getMarkdownContent() {

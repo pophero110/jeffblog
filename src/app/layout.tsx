@@ -1,4 +1,3 @@
-import Link from "next/link";
 import Breadcrumb from "@/components/Breadcrumb";
 
 export default function Layout({ children }: { children: React.ReactNode }) {
