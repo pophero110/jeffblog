@@ -6,6 +6,6 @@
 - Easy to navigate (tagging, searching and categorization)
 - Knowledge Check
 
-# Key Components
+# TODO
 
-- Post
+- Build a pipeline to streamline my knowledge and solved problem to content
