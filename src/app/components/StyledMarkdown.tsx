@@ -1,3 +1,4 @@
+"use client";
 import React, { useEffect } from "react";
 import ReactMarkdown from "react-markdown";
 import mermaid from "mermaid";
